@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HJImagePick_Example' do
+  pod 'HJImagePick', :path => '../'
+
+  target 'HJImagePick_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
