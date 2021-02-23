@@ -1,0 +1,22 @@
+{
+  "name": "HJImagePick",
+  "version": "0.1.0",
+  "summary": "A short description of HJImagePick.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/177984267@qq.com/HJImagePick",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "177984267@qq.com": "177984267@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/177984267@qq.com/HJImagePick.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HJImagePick/Classes/**/*"
+}

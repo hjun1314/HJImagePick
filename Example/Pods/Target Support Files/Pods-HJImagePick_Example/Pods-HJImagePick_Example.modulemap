@@ -1,0 +1,6 @@
+framework module Pods_HJImagePick_Example {
+  umbrella header "Pods-HJImagePick_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

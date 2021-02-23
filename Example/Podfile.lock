@@ -1,0 +1,16 @@
+PODS:
+  - HJImagePick (0.1.0)
+
+DEPENDENCIES:
+  - HJImagePick (from `../`)
+
+EXTERNAL SOURCES:
+  HJImagePick:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HJImagePick: c5b3498542b8bc25f5813a2535a4d7d6c492fc5c
+
+PODFILE CHECKSUM: 6fbd58927dc60c598c3e387258fbc970de3404cb
+
+COCOAPODS: 1.10.0.beta.2

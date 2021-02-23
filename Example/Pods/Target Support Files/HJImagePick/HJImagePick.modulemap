@@ -1,0 +1,6 @@
+framework module HJImagePick {
+  umbrella header "HJImagePick-umbrella.h"
+
+  export *
+  module * { export * }
+}
